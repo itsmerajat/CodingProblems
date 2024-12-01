@@ -28,4 +28,10 @@ Going step by step...
     * [Sum of all odd length subarray](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
     * [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
     * [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
-    
+
+* Day 5
+    * [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+    * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+    * [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+    * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+    * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
