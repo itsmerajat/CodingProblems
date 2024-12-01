@@ -19,3 +19,13 @@ Going step by step...
     * [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
     * [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)
     * [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+* Day 3
+    * [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+    * [Remove Element](https://leetcode.com/problems/remove-element/description/)
+    * [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+    
+* Day 4
+    * [Sum of all odd length subarray](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+    * [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+    * [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
+    
