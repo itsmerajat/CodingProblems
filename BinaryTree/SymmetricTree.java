@@ -12,7 +12,7 @@ public class SymmetricTree {
                 return true;
             if(left==null && right!=null)
                 return false;
-            if(right==null && left!=null)
+            if(right!=null && left==null)
                 return false;
             if(left.val!=right.val)
                 return false;
