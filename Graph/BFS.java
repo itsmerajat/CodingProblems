@@ -23,8 +23,7 @@ public class BFS {
                 if(visitedArray[i]==false)
                     queue.add(i);
                     visitedArray[node]=true;
-            }
-            x   
+            }   
         }
         return arr;
 }
