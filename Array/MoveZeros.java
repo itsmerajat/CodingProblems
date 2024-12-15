@@ -5,6 +5,7 @@ public class MoveZeros {
     // approach 1: using extra space
     public void moveZeroes_old(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
+        int[] temp = arr.stream().mapToInt(i->(int)i).toArray();
 
         for (int num : nums) {
             if (num != 0)
