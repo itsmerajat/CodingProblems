@@ -1,6 +1,6 @@
 package Redo;
 
-import Redo.TreeNode;
+import Redo.helper.TreeNode;
 
 public class MergeBinaryTree {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {

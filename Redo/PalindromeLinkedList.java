@@ -1,6 +1,6 @@
 package Redo;
 
-import Redo.ListNode;
+import Redo.helper.ListNode;
 
 public class PalindromeLinkedList{
     ListNode curr;
